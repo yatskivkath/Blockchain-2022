@@ -20,7 +20,7 @@ const deploy = async () => {
             to: to,
             value: web3.utils.toWei('0.1', 'ether'),
             gas: '21336',
-            data: "4B61746572796E6120596174736B69762032303232"
+            data: web3.utils.toHex("Kateryna Yatskiv 2022")
         },
         privateKey
     );
