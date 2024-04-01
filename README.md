@@ -1,4 +1,4 @@
-# Blockchain2022
+# Blockchain-2022
 
 <p>This repository will present laboratory work from the course on the Basics of Blockchain and Cryptocurrencies, which I took as part of my university education at National University of "Kyiv-Mohyla Academy"</p>
 
